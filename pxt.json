@@ -1,6 +1,6 @@
 {
     "name": "cmk-spr26j-3",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -15,7 +15,8 @@
         "3-1/v1.md",
         "3-2/v1.md",
         "4-1/v2.md",
-        "4-2/v2.md"
+        "4-2/v2.md",
+        "test/v1.md"
     ],
     "testFiles": [
         "test.ts"
